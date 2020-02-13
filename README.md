@@ -1,2 +1,0 @@
-# bookdescription
-Created with CodeSandbox
